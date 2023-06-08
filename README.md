@@ -27,6 +27,16 @@ Alguns termos mais comuns do HTML são:
 ## Estrutura
 
 A estrutura básica do documento HTML inclui as tags `<html>`, `<head>`, `<title>`e `<body>`:
+<br>
+<br>
+`<html>`: tag fundamental usada para delimitar o início e o fim de um documento HTML. 
+<br>
+`<head>`:
+<br>
+`<body>`:
+<br>
+<br>
+
 ```sh
 <!DOCTYPE html>
 <html>
@@ -38,15 +48,6 @@ A estrutura básica do documento HTML inclui as tags `<html>`, `<head>`, `<title
   </body>
 </html>
 ```
-
-<br>
-<br>
-`<html>``</html>`: tag fundamental usada para delimitar o início e o fim de um documento HTML. 
-<br>
-`<head>``</head>`:
-<br>
-`<body>``<body>`:
-<br>
 
 
 <br>
