@@ -20,13 +20,37 @@ Alguns termos mais comuns do HTML são:
 `Atributo`: Propriedades que fornecem outras informações sobre um elemento. Eles são definidos e especificados dentro das tags de abertuda. Ex: `<a href="https://www.example.com">`;
 <br>
 <br>
-`CSS´: Línguagem usada para estilização do HTML.
+`CSS`: Línguagem usada para estilização do HTML.
+<br>
+<br>
 
 ## Estrutura
 
-A estruturaba geral do documento HTML inclui as tags `>html>`, `<head>`, `<title>`e `<body>`.
+A estrutura básica do documento HTML inclui as tags `<html>`, `<head>`, `<title>`e `<body>`:
+```sh
+<!DOCTYPE html>
+<html>
+  <head>
+    <!-- Metadados, como título, links para estilos e scripts -->
+  </head>
+  <body>
+    <!-- Conteúdo principal da página -->
+  </body>
+</html>
+```
+
+<br>
+<br>
+`<html>``</html>`: tag fundamental usada para delimitar o início e o fim de um documento HTML. 
+<br>
+`<head>``</head>`:
+<br>
+`<body>``<body>`:
+<br>
 
 
+<br>
+<br>
 `<p>` `</p>`: tag de criação de parágrafo
 ```sh
 
